@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://tea-bakery.netlify.app/sitemap.xml
+Sitemap: https://coffee-auth.netlify.app/sitemap.xml
